@@ -1,0 +1,10 @@
+# Project folders
+.venv/*
+venv/*
+.ideia/*
+
+# Cli folders
+results/*
+
+# Cache
+*/__pycache__/*
