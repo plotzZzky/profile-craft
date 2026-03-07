@@ -79,7 +79,7 @@ Perfis completos:
   }
 ```
 
-Perfil com hereditário:
+Perfil hereditário:
 
 ```json
 {
