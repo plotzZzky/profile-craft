@@ -9,7 +9,7 @@ class JobCreator:
         self.open_jobs_json()
 
     def open_jobs_json(self):
-        with open("dbs/jobs.json", "r") as file:
+        with open("data/jobs.json", "r") as file:
             self.jobs = json.load(file)
 
     def select_job(self, uf: str):

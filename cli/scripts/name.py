@@ -24,7 +24,7 @@ class CreateName:
 
     @staticmethod
     def generic_open_table(table: str):
-        table_path = Path(f"dbs/{table}")
+        table_path = Path(f"data/{table}")
         df = pd.read_csv(table_path, encoding="utf-8", names=["name"])
         result = df['name'].to_list()
         return result

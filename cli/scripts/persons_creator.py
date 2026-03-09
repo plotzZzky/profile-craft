@@ -32,7 +32,7 @@ class PersonCreator:
 
     def open_ufs_json(self):
         """ Importa a lista com todos os estados """
-        with open("dbs/ufs.json", "r", encoding="utf-8") as file:
+        with open("data/ufs.json", "r", encoding="utf-8") as file:
             self.ufs = json.load(file)
 
     # Create n persons
