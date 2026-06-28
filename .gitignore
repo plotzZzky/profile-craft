@@ -1,7 +1,7 @@
 # Project folders
 .venv/*
 venv/*
-.ideia/*
+.idea/*
 
 # Cli folders
 results/*

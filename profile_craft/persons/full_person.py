@@ -89,6 +89,7 @@ class FullPerson(BasicPerson):
             "mother_lastname": self.mother_lastname,
             "birthday": self.birthday,
             "state": self.state,
+            "job": self.job,
             "phones": self.phones,
             "emails": self.emails,
         }
