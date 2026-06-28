@@ -1,0 +1,245 @@
+{
+  "AC": {
+    "state": "Acre",
+    "cities": [
+      { "city": "Rio Branco", "ddd": "68", "cep": "69900-000" },
+      { "city": "Cruzeiro do Sul", "ddd": "68", "cep": "69980-000" },
+      { "city": "Sena Madureira", "ddd": "68", "cep": "69940-000" },
+      { "city": "Tarauacá", "ddd": "68", "cep": "69970-000" }
+    ]
+  },
+  "AL": {
+    "state": "Alagoas",
+    "cities": [
+      { "city": "Maceió", "ddd": "82", "cep": "57010-000" },
+      { "city": "Arapiraca", "ddd": "82", "cep": "57300-000" },
+      { "city": "Palmeira dos Índios", "ddd": "82", "cep": "57600-000" },
+      { "city": "Rio Largo", "ddd": "82", "cep": "57100-000" }
+    ]
+  },
+  "AM": {
+    "state": "Amazonas",
+    "cities": [
+      { "city": "Manaus", "ddd": "92", "cep": "69010-000" },
+      { "city": "Parintins", "ddd": "92", "cep": "69151-000" },
+      { "city": "Itacoatiara", "ddd": "92", "cep": "69100-000" },
+      { "city": "Manacapuru", "ddd": "92", "cep": "69400-000" }
+    ]
+  },
+  "AP": {
+    "state": "Amapá",
+    "cities": [
+      { "city": "Macapá", "ddd": "96", "cep": "68900-000" },
+      { "city": "Santana", "ddd": "96", "cep": "68925-000" },
+      { "city": "Laranjal do Jari", "ddd": "96", "cep": "68920-000" },
+      { "city": "Oiapoque", "ddd": "96", "cep": "68980-000" }
+    ]
+  },
+  "BA": {
+    "state": "Bahia",
+    "cities": [
+      { "city": "Salvador", "ddd": "71", "cep": "40010-000" },
+      { "city": "Feira de Santana", "ddd": "75", "cep": "44010-000" },
+      { "city": "Vitória da Conquista", "ddd": "77", "cep": "45000-000" },
+      { "city": "Ilhéus", "ddd": "73", "cep": "45650-000" }
+    ]
+  },
+  "CE": {
+    "state": "Ceará",
+    "cities": [
+      { "city": "Fortaleza", "ddd": "85", "cep": "60010-000" },
+      { "city": "Juazeiro do Norte", "ddd": "88", "cep": "63010-000" },
+      { "city": "Sobral", "ddd": "88", "cep": "62010-000" },
+      { "city": "Caucaia", "ddd": "85", "cep": "61600-000" }
+    ]
+  },
+  "DF": {
+    "state": "Distrito Federal",
+    "cities": [
+      { "city": "Brasília", "ddd": "61", "cep": "70040-010" },
+      { "city": "Taguatinga", "ddd": "61", "cep": "72010-000" },
+      { "city": "Ceilândia", "ddd": "61", "cep": "72210-000" },
+      { "city": "Gama", "ddd": "61", "cep": "72400-000" }
+    ]
+  },
+  "ES": {
+    "state": "Espírito Santo",
+    "cities": [
+      { "city": "Vitória", "ddd": "27", "cep": "29010-000" },
+      { "city": "Vila Velha", "ddd": "27", "cep": "29100-000" },
+      { "city": "Serra", "ddd": "27", "cep": "29160-000" },
+      { "city": "Cariacica", "ddd": "27", "cep": "29140-000" }
+    ]
+  },
+  "GO": {
+    "state": "Goiás",
+    "cities": [
+      { "city": "Goiânia", "ddd": "62", "cep": "74010-000" },
+      { "city": "Anápolis", "ddd": "62", "cep": "75000-000" },
+      { "city": "Rio Verde", "ddd": "64", "cep": "75900-000" },
+      { "city": "Aparecida de Goiânia", "ddd": "62", "cep": "74900-000" }
+    ]
+  },
+  "MA": {
+    "state": "Maranhão",
+    "cities": [
+      { "city": "São Luís", "ddd": "98", "cep": "65010-000" },
+      { "city": "Imperatriz", "ddd": "99", "cep": "65900-000" },
+      { "city": "Caxias", "ddd": "99", "cep": "65600-000" },
+      { "city": "Timon", "ddd": "99", "cep": "65630-000" }
+    ]
+  },
+  "MG": {
+    "state": "Minas Gerais",
+    "cities": [
+      { "city": "Belo Horizonte", "ddd": "31", "cep": "30110-000" },
+      { "city": "Uberlândia", "ddd": "34", "cep": "38400-000" },
+      { "city": "Juiz de Fora", "ddd": "32", "cep": "36010-000" },
+      { "city": "Contagem", "ddd": "31", "cep": "32010-000" }
+    ]
+  },
+  "MS": {
+    "state": "Mato Grosso do Sul",
+    "cities": [
+      { "city": "Campo Grande", "ddd": "67", "cep": "79002-000" },
+      { "city": "Dourados", "ddd": "67", "cep": "79800-000" },
+      { "city": "Três Lagoas", "ddd": "67", "cep": "79600-000" },
+      { "city": "Corumbá", "ddd": "67", "cep": "79300-000" }
+    ]
+  },
+  "MT": {
+    "state": "Mato Grosso",
+    "cities": [
+      { "city": "Cuiabá", "ddd": "65", "cep": "78005-000" },
+      { "city": "Rondonópolis", "ddd": "66", "cep": "78700-000" },
+      { "city": "Sinop", "ddd": "66", "cep": "78550-000" },
+      { "city": "Várzea Grande", "ddd": "65", "cep": "78110-000" }
+    ]
+  },
+  "PA": {
+    "state": "Pará",
+    "cities": [
+      { "city": "Belém", "ddd": "91", "cep": "66010-000" },
+      { "city": "Ananindeua", "ddd": "91", "cep": "67000-000" },
+      { "city": "Santarém", "ddd": "93", "cep": "68005-000" },
+      { "city": "Marabá", "ddd": "94", "cep": "68500-000" }
+    ]
+  },
+  "PB": {
+    "state": "Paraíba",
+    "cities": [
+      { "city": "João Pessoa", "ddd": "83", "cep": "58010-000" },
+      { "city": "Campina Grande", "ddd": "83", "cep": "58400-000" },
+      { "city": "Patos", "ddd": "83", "cep": "58700-000" },
+      { "city": "Santa Rita", "ddd": "83", "cep": "58000-000" }
+    ]
+  },
+  "PE": {
+    "state": "Pernambuco",
+    "cities": [
+      { "city": "Recife", "ddd": "81", "cep": "50010-000" },
+      { "city": "Caruaru", "ddd": "81", "cep": "55010-000" },
+      { "city": "Petrolina", "ddd": "87", "cep": "56300-000" },
+      { "city": "Olinda", "ddd": "81", "cep": "53010-000" }
+    ]
+  },
+  "PI": {
+    "state": "Piauí",
+    "cities": [
+      { "city": "Teresina", "ddd": "86", "cep": "64000-010" },
+      { "city": "Parnaíba", "ddd": "86", "cep": "64200-000" },
+      { "city": "Picos", "ddd": "89", "cep": "64600-000" },
+      { "city": "Floriano", "ddd": "89", "cep": "64800-000" }
+    ]
+  },
+  "PR": {
+    "state": "Paraná",
+    "cities": [
+      { "city": "Curitiba", "ddd": "41", "cep": "80010-000" },
+      { "city": "Londrina", "ddd": "43", "cep": "86010-000" },
+      { "city": "Maringá", "ddd": "44", "cep": "87010-000" },
+      { "city": "Ponta Grossa", "ddd": "42", "cep": "84010-000" }
+    ]
+  },
+  "RJ": {
+    "state": "Rio de Janeiro",
+    "cities": [
+      { "city": "Rio de Janeiro", "ddd": "21", "cep": "20010-000" },
+      { "city": "Niterói", "ddd": "21", "cep": "24010-000" },
+      { "city": "Campos dos Goytacazes", "ddd": "22", "cep": "28010-000" },
+      { "city": "Duque de Caxias", "ddd": "21", "cep": "25010-000" }
+    ]
+  },
+  "RN": {
+    "state": "Rio Grande do Norte",
+    "cities": [
+      { "city": "Natal", "ddd": "84", "cep": "59010-000" },
+      { "city": "Mossoró", "ddd": "84", "cep": "59600-000" },
+      { "city": "Parnamirim", "ddd": "84", "cep": "59140-000" },
+      { "city": "Caicó", "ddd": "84", "cep": "59300-000" }
+    ]
+  },
+  "RO": {
+    "state": "Rondônia",
+    "cities": [
+      { "city": "Porto Velho", "ddd": "69", "cep": "76801-000" },
+      { "city": "Ji-Paraná", "ddd": "69", "cep": "76900-000" },
+      { "city": "Ariquemes", "ddd": "69", "cep": "76870-000" },
+      { "city": "Cacoal", "ddd": "69", "cep": "76960-000" }
+    ]
+  },
+  "RR": {
+    "state": "Roraima",
+    "cities": [
+      { "city": "Boa Vista", "ddd": "95", "cep": "69301-000" },
+      { "city": "Rorainópolis", "ddd": "95", "cep": "69373-000" },
+      { "city": "Caracaraí", "ddd": "95", "cep": "69360-000" },
+      { "city": "Alto Alegre", "ddd": "95", "cep": "69350-000" }
+    ]
+  },
+  "RS": {
+    "state": "Rio Grande do Sul",
+    "cities": [
+      { "city": "Porto Alegre", "ddd": "51", "cep": "90010-000" },
+      { "city": "Caxias do Sul", "ddd": "54", "cep": "95010-000" },
+      { "city": "Pelotas", "ddd": "53", "cep": "96010-000" },
+      { "city": "Canoas", "ddd": "51", "cep": "92010-000" }
+    ]
+  },
+  "SC": {
+    "state": "Santa Catarina",
+    "cities": [
+      { "city": "Florianópolis", "ddd": "48", "cep": "88010-000" },
+      { "city": "Joinville", "ddd": "47", "cep": "89201-000" },
+      { "city": "Blumenau", "ddd": "47", "cep": "89010-000" },
+      { "city": "Chapecó", "ddd": "49", "cep": "89801-000" }
+    ]
+  },
+  "SE": {
+    "state": "Sergipe",
+    "cities": [
+      { "city": "Aracaju", "ddd": "79", "cep": "49010-000" },
+      { "city": "Nossa Senhora do Socorro", "ddd": "79", "cep": "49160-000" },
+      { "city": "Itabaiana", "ddd": "79", "cep": "49500-000" },
+      { "city": "Lagarto", "ddd": "79", "cep": "49400-000" }
+    ]
+  },
+  "SP": {
+    "state": "São Paulo",
+    "cities": [
+      { "city": "São Paulo", "ddd": "11", "cep": "01001-000" },
+      { "city": "Campinas", "ddd": "19", "cep": "13010-001" },
+      { "city": "Santos", "ddd": "13", "cep": "11010-000" },
+      { "city": "São José dos Campos", "ddd": "12", "cep": "12210-000" }
+    ]
+  },
+  "TO": {
+    "state": "Tocantins",
+    "cities": [
+      { "city": "Palmas", "ddd": "63", "cep": "77001-000" },
+      { "city": "Araguaína", "ddd": "63", "cep": "77800-000" },
+      { "city": "Gurupi", "ddd": "63", "cep": "77400-000" },
+      { "city": "Porto Nacional", "ddd": "63", "cep": "77500-000" }
+    ]
+  }
+}

@@ -2,14 +2,9 @@ import random
 
 
 class CpfCreator:
-    """
-        Script que gera cpfs para uso em teste de sistemas
-        !!! Importante esses cpfs são FICTICIOS servindo apenas para testes!!!
-    """
-
     uf_code: int = 0
 
-    def return_new_cpf(self, uf: int) -> str:
+    def return_new_cpf(self, uf: int) -> str | None:
         self.uf_code = uf
         return self.create_new_cpf()
 

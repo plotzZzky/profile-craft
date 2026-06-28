@@ -1,0 +1,12 @@
+@mail.com
+@mail.com.br
+@mail.io
+@mail.net
+@mail.ia
+@mail.gov
+@mail.edu
+@xmail.com
+@xyzmail.com
+@mail.gov.edu
+@anothermail.com
+@anothermail.com.xyz

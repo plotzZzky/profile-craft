@@ -1,18 +1,14 @@
-import json
+from creators.generic_creator import GenericCreator
 import random
 
 
-class JobCreator:
+class JobCreator(GenericCreator):
     jobs: dict = {}
 
     def __init__(self):
-        self.open_jobs_json()
+        self.jobs: dict = self._open_json_list("data/jobs.json")
 
-    def open_jobs_json(self):
-        with open("data/jobs.json", "r") as file:
-            self.jobs = json.load(file)
-
-    def select_job(self, uf: str):
+    def return_random_job(self, uf: str):
         """ Seleciona uma profissão aleatoria na lista de jobs da sua região e estado """
         for region in self.jobs.keys():
             states = self.jobs[region]["states"]
